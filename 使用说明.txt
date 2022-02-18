@@ -1,14 +1,10 @@
-�ر�ע�⣺
-��ϷĿ¼���������ģ�
-��Ϸ��������ܻ����10-50�룬�ȴ�����һ����ͽ�ȥ��
+特别注意：
+游戏目录不能有中文！
+游戏启动后可能会黑屏10-50秒，等待加载一会儿就进去了
 
-��ο�����ģʽ��
-��ģʽ��Ҫ�������²�������
-1.����ϷĿ¼�Թ���Աģʽ����һ�� Installation.bat
-2.����ϷĿ¼\Paralogue\Binaries\Win64�Թ���Աģʽ����Mindflayer.Desktop.exe����ѡ��ѡ�ǣ�����������Ϸ
+如何开启后宫模式：
+后宫模式需要按照以下步骤启动
+1.在游戏目录以管理员模式运行一次 Installation.bat
+2.在游戏目录\Paralogue\Binaries\Win64以管理员模式运行Mindflayer.Desktop.exe弹出选项选是，即可启动游戏
 
-���߹ۿ���Ƶ���в�����
-https://www.xiaohongshu.com/discovery/item/61ef6b70000000002103b05f
-
-
-ע�⣺����Դ����ѧϰ����,�Ͻ�������ҵ��;,����24Сʱ��ɾ����
+注意：本资源仅供学习交流,严禁用于商业用途,请于24小时内删除。
